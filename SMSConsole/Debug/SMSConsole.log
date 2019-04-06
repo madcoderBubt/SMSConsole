@@ -1,0 +1,3 @@
+﻿  Main.cpp
+d:\console application\smsconsole\smsconsole\student.cpp(10): warning C4101: 'strD': unreferenced local variable
+  SMSConsole.vcxproj -> D:\Console Application\SMSConsole\Debug\SMSConsole.exe
